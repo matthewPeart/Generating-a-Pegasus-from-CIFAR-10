@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1800"
+   height="1200"
+   viewBox="0 0 476.25002 317.5"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="gan.svg"
+   inkscape:export-filename="C:\Users\Matth\Desktop\Figures\gan.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path984"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path984-5"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-0-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path984-5-2"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path984-6"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="744.73887"
+     inkscape:cy="1678.5636"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showguides="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,20.499981)">
+    <g
+       id="g2234"
+       transform="translate(4.4647936,-1.5085247e-6)">
+      <rect
+         y="22.245928"
+         x="77.648911"
+         height="91.374252"
+         width="127.80113"
+         id="rect815"
+         style="opacity:1;fill:#bcd35f;fill-opacity:1;stroke:none;stroke-width:0.56499994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <text
+         id="text819"
+         y="63.92942"
+         x="141.10376"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.875px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan821"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.875px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="63.92942"
+           x="143.63074"
+           sodipodi:role="line">CIFAR-10 birds </tspan><tspan
+           id="tspan825"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.875px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
+           y="83.77317"
+           x="143.63074"
+           sodipodi:role="line">&amp; horses </tspan></text>
+      <rect
+         y="22.245928"
+         x="255.11588"
+         height="91.374252"
+         width="127.80113"
+         id="rect815-8"
+         style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.66500002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <text
+         id="text819-7"
+         y="63.929413"
+         x="318.57074"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.875px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           y="63.929413"
+           x="318.57074"
+           id="tspan855"
+           sodipodi:role="line">Discriminator</tspan><tspan
+           y="83.773163"
+           x="318.57074"
+           id="tspan857"
+           sodipodi:role="line"> Network</tspan></text>
+      <rect
+         y="162.87987"
+         x="77.381645"
+         height="91.374252"
+         width="127.80113"
+         id="rect815-8-9"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.56499994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <text
+         id="text819-7-1"
+         y="204.56335"
+         x="140.8365"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.875px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           y="204.56335"
+           x="140.8365"
+           id="tspan883"
+           sodipodi:role="line">Generator</tspan><tspan
+           y="224.4071"
+           x="140.8365"
+           id="tspan885"
+           sodipodi:role="line"> Network</tspan></text>
+      <rect
+         y="162.87987"
+         x="255.38315"
+         height="91.374252"
+         width="127.80113"
+         id="rect815-8-9-1"
+         style="opacity:1;fill:#ff5555;fill-opacity:1;stroke:none;stroke-width:0.56499994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+      <text
+         id="text819-7-1-8"
+         y="212.94656"
+         x="318.89615"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.875px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan885-0"
+           sodipodi:role="line"
+           x="318.89615"
+           y="212.94656"
+           style="stroke-width:0.26458332">Fake Images</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path961"
+         d="m 205.73293,67.944769 h 48.27129"
+         style="fill:none;stroke:#000000;stroke-width:0.66500002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path961-0"
+         d="m 206.00019,208.57868 h 48.2713"
+         style="fill:none;stroke:#000000;stroke-width:0.66500002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-0)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path961-0-5"
+         d="m 319.02818,163.00317 v -48.2713"
+         style="fill:none;stroke:#000000;stroke-width:0.66500002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-0-1)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path961-2"
+         d="m 382.91702,67.942614 h 39.38869"
+         style="fill:none;stroke:#000000;stroke-width:0.66500002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-1)" />
+      <flowRoot
+         transform="matrix(0.26458334,0,0,0.26458334,-21.74005,28.143071)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot2120"
+         xml:space="preserve"><flowRegion
+           id="flowRegion2122"><rect
+             y="193.88806"
+             x="1563.7162"
+             height="88.893425"
+             width="280.82245"
+             id="rect2124" /></flowRegion><flowPara
+           id="flowPara2126">Real / Fake?</flowPara></flowRoot>      <g
+         transform="translate(0,-1.3185643)"
+         id="g2178">
+        <g
+           id="g2161"
+           transform="translate(3.8134453,-28.915179)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path2153"
+             d="M 9.6217033,239.26981 H 63.07561"
+             style="fill:#000000;stroke:#000000;stroke-width:1.06500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="csssc"
+             inkscape:connector-curvature="0"
+             id="path2157"
+             d="m 9.6217033,239.26981 c 0,0 7.5308487,0.94412 11.8962827,-6.46382 5.939284,-10.07869 10.09646,-22.91913 15.36521,-22.91913 5.44959,0 8.987544,13.11029 14.857538,23.3442 4.057094,7.07325 11.334876,6.03875 11.334876,6.03875"
+             style="fill:none;stroke:#000000;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot2163"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458334,0,0,0.26458334,0,-34.78749)"><flowRegion
+             id="flowRegion2165"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"><rect
+               id="rect2167"
+               width="172.85715"
+               height="130.71426"
+               x="64.285713"
+               y="948.57141"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+             id="flowPara2169">sample noise</flowPara></flowRoot>      </g>
+    </g>
+  </g>
+</svg>
